@@ -1,0 +1,8 @@
+div{
+    width: 100%;
+    height: 700px;
+    background-image: url(../../assets/background/background1.jpg);
+    background-position: center;
+    background-size: cover;
+    margin-top: 5rem;
+}
