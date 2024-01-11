@@ -6,3 +6,13 @@ div{
     background-size: cover;
     margin-top: 5rem;
 }
+
+#card-background{
+    width: 100%;
+    background-color: #16233D;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    gap: 12rem;
+
+}
