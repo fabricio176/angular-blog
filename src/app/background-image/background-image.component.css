@@ -1,18 +1,25 @@
-div{
+#background-img{
     width: 100%;
     height: 700px;
     background-image: url(../../assets/background/background1.jpg);
     background-position: center;
     background-size: cover;
     margin-top: 5rem;
+    display: flex;
+    align-items: flex-end;
 }
 
 #card-background{
     width: 100%;
-    background-color: #16233D;
+    height: auto;
+    margin: 0px 100px 30px 100px;
+    background-color: #16233d9c ;
     display: flex;
     justify-content: center;
     align-items: flex-end;
-    gap: 12rem;
+    gap: 8rem;
+}
 
+img{
+    width: 10px;
 }

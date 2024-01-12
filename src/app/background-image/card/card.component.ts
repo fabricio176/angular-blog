@@ -8,7 +8,7 @@ import { Component, OnInit, Input } from '@angular/core';
 export class CardComponent implements OnInit {
   @Input() labelPercent:string = "";
   @Input() labelText:string = "";
-
+  @Input() urlImg:string ="";
   constructor() { }
 
   ngOnInit(): void {
